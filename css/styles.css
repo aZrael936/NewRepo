@@ -123,6 +123,10 @@ h1{
   padding: 3% 10% 1%;
 }
 
+.col{
+  margin: 15px auto;
+}
+
 /* ctaa */
 
 
@@ -146,5 +150,5 @@ h1{
 }
 
 .footerIco{
-  margin: 0 10px;
+  margin: 10px;
 }
