@@ -1,2 +1,1 @@
-# NewRepo
-BootstrapSampleProject
+TinDog Starting Files
