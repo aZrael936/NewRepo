@@ -127,6 +127,13 @@ h1{
   margin: 15px auto;
 }
 
+/* pricing */
+
+.priceMar{
+  margin: 15px 0;
+}
+
+
 /* ctaa */
 
 
@@ -151,4 +158,12 @@ h1{
 
 .footerIco{
   margin: 10px;
+}
+
+/* Responsive */
+
+@media (max-width: 928px) {
+  body{
+    text-align: center;
+  }
 }
